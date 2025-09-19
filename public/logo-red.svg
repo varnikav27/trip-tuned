@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Location Pin -->
+  <path d="M30 10 C20 10, 10 18, 10 30 C10 42, 30 50, 30 50 C30 50, 50 42, 50 30 C50 18, 40 10, 30 10 Z" fill="#e53e3e" stroke="#e53e3e" stroke-width="1"/>
+  
+  <!-- Sound waves inside pin -->
+  <circle cx="30" cy="28" r="2" fill="white"/>
+  <rect x="22" y="22" width="2" height="12" rx="1" fill="white"/>
+  <rect x="26" y="18" width="2" height="20" rx="1" fill="white"/>
+  <rect x="34" y="18" width="2" height="20" rx="1" fill="white"/>
+  <rect x="38" y="22" width="2" height="12" rx="1" fill="white"/>
+  
+  <!-- TripTuned Text -->
+  <text x="65" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">TripTuned</text>
+</svg>
